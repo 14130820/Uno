@@ -1,0 +1,39 @@
+# OS Generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.vs/
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.pidb.*
+*.suo
+*.svd
+*.tmp
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Unity generated
+# ===============
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ll]ogs/
+sysinfo.txt
+*.stackdump
+output_log.txt
+

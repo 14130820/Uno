@@ -1,0 +1,6 @@
+Get proper spritesheet and any other card changes
+Fix card back sprite
+Get proper turn arrow sprite (prefade)
+
+names still not repositioning when exit to lobby and back in game.
+check if im setting my safety when it's not my turn.
